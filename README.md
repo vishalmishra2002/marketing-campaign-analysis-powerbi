@@ -51,6 +51,7 @@ Interactive Power BI dashboard with:
 - `/data` – Raw and cleaned datasets
 - `/dashboard` – Power BI dashboard file
 - `/visuals` – Dashboard screenshots
+- `/documents` – PPt , Video and pdf of dashboard.
 
 ## 📬 Contact
 **Vishal Mishra**  
